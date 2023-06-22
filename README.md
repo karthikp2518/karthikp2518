@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthikp2518
+- 👋 Hi, I’m karthik
 - 👀 I’m interested in ... cloud security concepts and implementation of ABE
 - 🌱 I’m currently pursuing ... PHD
 - 💞️ I’m looking to collaborate on ...
